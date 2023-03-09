@@ -1,2 +1,2 @@
 # testowe1
-test repozytorium
+testowe repozytorium publiczne
